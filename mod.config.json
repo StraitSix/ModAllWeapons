@@ -1,8 +1,8 @@
 {
     "autoUpdate": true,
     "forceDowngrade": false,
-    "checkUpdateUrl": "https://raw.githubusercontent.com/AppeazeTheCheese/EmuTarkovModUpdateTest/main/mod.config.json",
-    "downloadUpdateUrl": "https://github.com/AppeazeTheCheese/EmuTarkovModUpdateTest/releases/download/1.0.0/ModUpdateTest.zip",
+    "checkUpdateUrl": "https://raw.githubusercontent.com/StraitSix/ModAllWeapons/main/mod.config.json",
+    "downloadUpdateUrl": "https://github.com/StraitSix/ModAllWeapons/archive/1.4.0.zip",
     "excludeFromUpdate": [
         "readme.md",
         "License.rtf",
