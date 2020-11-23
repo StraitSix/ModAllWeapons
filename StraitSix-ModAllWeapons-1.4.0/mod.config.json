@@ -1,0 +1,24 @@
+{
+    "autoUpdate": true,
+    "forceDowngrade": false,
+    "checkUpdateUrl": "https://raw.githubusercontent.com/StraitSix/ModAllWeapons/main/mod.config.json",
+    "downloadUpdateUrl": "https://github.com/StraitSix/ModAllWeapons/archive/1.4.0.zip",
+    "excludeFromUpdate": [
+        "readme.md",
+        "License.rtf",
+        "screenshots/After.jpg",
+        "screenshots/Before.jpg",
+        "screenshots/BeforeandAfter.jpg",
+        "logs/console.log"
+    ],
+
+    "name": "ModAllWeapons",
+    "author": "StraitSix",
+    "description": "In-progress",
+    "license": "MIT",
+    "version": "1.4.0",
+    "dependencies": [],
+    "src": {
+        "src/ModAllWeapons.js": "CacheModLoad"
+    }
+}
