@@ -1,7 +1,7 @@
 {
     "autoUpdate": true,
     "forceDowngrade": false,
-    "checkUpdateUrl": "https://raw.githubusercontent.com/StraitSix/ModAllWeapons/main/mod.config.json",
+    "checkUpdateUrl": "https://raw.githubusercontent.com/StraitSix/ModAllWeapons/1.4.0/StraitSix-ModAllWeapons-1.4.0/mod.config.json",
     "downloadUpdateUrl": "https://github.com/StraitSix/ModAllWeapons/archive/1.4.0.zip",
     "excludeFromUpdate": [
         "readme.md",
