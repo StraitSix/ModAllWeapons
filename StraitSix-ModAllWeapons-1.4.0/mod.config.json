@@ -6,10 +6,8 @@
     "excludeFromUpdate": [
         "readme.md",
         "License.rtf",
-        "screenshots/After.jpg",
-        "screenshots/Before.jpg",
-        "screenshots/BeforeandAfter.jpg",
-        "logs/console.log"
+        "screenshots/",
+        "logs"
     ],
 
     "name": "ModAllWeapons",
